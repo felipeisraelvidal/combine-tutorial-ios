@@ -15,6 +15,7 @@
 		550F6CD6277BF24D00119C4F /* Combine_TutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550F6CD5277BF24D00119C4F /* Combine_TutorialUITests.swift */; };
 		550F6CD8277BF24D00119C4F /* Combine_TutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550F6CD7277BF24D00119C4F /* Combine_TutorialUITestsLaunchTests.swift */; };
 		550F6CE5277BF29200119C4F /* FirstExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550F6CE4277BF29200119C4F /* FirstExampleViewController.swift */; };
+		550F6CE7277BF37000119C4F /* SecondExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550F6CE6277BF37000119C4F /* SecondExampleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		550F6CD5277BF24D00119C4F /* Combine_TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combine_TutorialUITests.swift; sourceTree = "<group>"; };
 		550F6CD7277BF24D00119C4F /* Combine_TutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combine_TutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		550F6CE4277BF29200119C4F /* FirstExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstExampleViewController.swift; sourceTree = "<group>"; };
+		550F6CE6277BF37000119C4F /* SecondExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondExampleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				550F6CB4277BF24A00119C4F /* AppDelegate.swift */,
 				550F6CB6277BF24A00119C4F /* SceneDelegate.swift */,
 				550F6CE4277BF29200119C4F /* FirstExampleViewController.swift */,
+				550F6CE6277BF37000119C4F /* SecondExampleViewController.swift */,
 				550F6CBD277BF24D00119C4F /* Assets.xcassets */,
 				550F6CBF277BF24D00119C4F /* LaunchScreen.storyboard */,
 				550F6CC2277BF24D00119C4F /* Info.plist */,
@@ -255,6 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				550F6CE5277BF29200119C4F /* FirstExampleViewController.swift in Sources */,
+				550F6CE7277BF37000119C4F /* SecondExampleViewController.swift in Sources */,
 				550F6CB5277BF24A00119C4F /* AppDelegate.swift in Sources */,
 				550F6CB7277BF24A00119C4F /* SceneDelegate.swift in Sources */,
 			);

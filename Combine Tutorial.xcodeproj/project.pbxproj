@@ -53,6 +53,7 @@
 		550F6CE6277BF37000119C4F /* SecondExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondExampleViewController.swift; sourceTree = "<group>"; };
 		550F6CE8277BF3E500119C4F /* ThirdExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdExampleViewController.swift; sourceTree = "<group>"; };
 		550F6CEA277BF46C00119C4F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		550F6CEC277BF58000119C4F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		550F6CA8277BF24A00119C4F = {
 			isa = PBXGroup;
 			children = (
+				550F6CEC277BF58000119C4F /* README.md */,
 				550F6CB3277BF24A00119C4F /* Combine Tutorial */,
 				550F6CCA277BF24D00119C4F /* Combine TutorialTests */,
 				550F6CD4277BF24D00119C4F /* Combine TutorialUITests */,
